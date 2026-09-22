@@ -1,8 +1,13 @@
+# Python environments and generated files
 .venv/
-.vscode/
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
 .pytest_cache/
-.DS_Store
+
+# Local configuration and editor files
+.env
+.vscode/
+.idea/
+
+# Model artifacts are supplied and verified separately.
+models/*.pth

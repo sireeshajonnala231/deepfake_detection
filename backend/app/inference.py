@@ -1,4 +1,3 @@
-
 """Model loading and inference for the image deepfake detector."""
 
 from __future__ import annotations
