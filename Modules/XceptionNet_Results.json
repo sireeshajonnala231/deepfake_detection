@@ -1,0 +1,10 @@
+{
+    "Model": "XceptionNet",
+    "Training Accuracy": 93.19,
+    "Validation Accuracy": 69.8,
+    "Test Accuracy": 63.47,
+    "Precision": 0.6,
+    "Recall": 0.79,
+    "F1 Score": 0.68,
+    "ROC-AUC": 0.6966
+}
